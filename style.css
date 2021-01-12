@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    
+
+}
+div{
+    margin-top: :15px;
+}
+
+.text {
+    color: burlywood;
+}
+
+.images {
+    
+    height: 250px;
+    width: 300px;
+    justify-content: center;
+}
+
+.pictures {
+    
+    text-align: center;
+    background-color: burlywood;
+    width: 300px;
+    margin: auto;
+
+
+}
+
+.picture {
+   
+    text-align: center;
+    background-color: burlywood;
+    width: 300px;
+    margin: auto;
+
+
+}
+
+.hello {
+    display:flex;
+    text-align: center;
+    display: flex；
+}
